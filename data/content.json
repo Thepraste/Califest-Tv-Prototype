@@ -1,0 +1,207 @@
+{
+  "nowPlaying": {
+    "title": "Carnival Calabar",
+    "subtitle": "From the city of Calabar",
+    "thumbnail": "./images/parade.webp"
+  },
+  "channels": [
+    {
+      "id": "main-parade",
+      "name": "Main Parade",
+      "description": "Multi-camera coverage of the main street parade.",
+      "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=900&q=80",
+      "streamUrl": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"
+    },
+    {
+      "id": "beach-party",
+      "name": "Beach Party",
+      "description": "Sun, sound and dancing from the riverside stage.",
+      "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=900&q=80",
+      "streamUrl": "https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8"
+    },
+    {
+      "id": "talent-showcase",
+      "name": "Talent Showcase",
+      "description": "Live performances from rising carnival talent.",
+      "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=900&q=80",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    },
+    {
+      "id": "cultural-display",
+      "name": "Cultural Display",
+      "description": "Costumes, masquerades and traditional troupes.",
+      "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=900&q=80",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    }
+  ],
+  "shows": [
+    {
+      "id": "show-king-queen",
+      "title": "King & Queen Pageant",
+      "category": "Pageant",
+      "featured": true,
+      "badge": "ON DEMAND",
+      "match": "98% Match",
+      "duration": "42m",
+      "image": "https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?auto=format&fit=crop&w=900&q=80",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "description": "The royal court takes the stage as contestants show costume, poise and culture."
+    },
+    {
+      "id": "show-cultural-showcase",
+      "title": "Cultural Showcase",
+      "category": "Culture",
+      "featured": true,
+      "badge": "ON DEMAND",
+      "match": "97% Match",
+      "duration": "28m",
+      "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=900&q=80",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "description": "Traditional dance troupes and masquerades from across Nigeria and Cross River State."
+    },
+    {
+      "id": "show-big-5",
+      "title": "The Big 5 Band Showcase",
+      "category": "Bands",
+      "featured": false,
+      "match": "99% Match",
+      "duration": "36m",
+      "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=900&q=80",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "description": "Five megabands, five themes, one street. Watch the best performances from the route."
+    },
+    {
+      "id": "show-bikers",
+      "title": "Bikers & Supercars Fiesta",
+      "category": "Specials",
+      "featured": false,
+      "match": "96% Match",
+      "duration": "19m",
+      "image": "https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=900&q=80",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "description": "International biker clubs and stunt riders take over Marian Road."
+    },
+    {
+      "id": "show-night-party",
+      "title": "Calabar Night Party",
+      "category": "Concerts",
+      "featured": false,
+      "match": "95% Match",
+      "duration": "54m",
+      "image": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?auto=format&fit=crop&w=900&q=80",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "description": "Afrobeats headliners under the stadium lights until the early hours."
+    },
+    {
+      "id": "show-street-dance",
+      "title": "Street Dance Battle",
+      "category": "Dance",
+      "featured": false,
+      "match": "94% Match",
+      "duration": "16m",
+      "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=900&q=80",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "description": "Crews go head to head in a high-energy street dance showdown."
+    }
+  ],
+  "highlights": [
+    {
+      "id": "hl-gestures",
+      "title": "Gestures & Extravaganza",
+      "category": "Highlights",
+      "match": "99% Match",
+      "duration": "12m",
+      "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&w=900&q=80",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "description": "The best moments from the costume and gesture judging."
+    },
+    {
+      "id": "hl-street-parade",
+      "title": "Street Parade Moments",
+      "category": "Highlights",
+      "match": "98% Match",
+      "duration": "9m",
+      "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=900&q=80",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "description": "Crowd energy and float moments from the 12km route."
+    },
+    {
+      "id": "hl-night-party",
+      "title": "Calabar Night Party Recap",
+      "category": "Highlights",
+      "match": "97% Match",
+      "duration": "11m",
+      "image": "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?auto=format&fit=crop&w=900&q=80",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "description": "Recap of the stadium night concert and fireworks."
+    },
+    {
+      "id": "hl-masquerade",
+      "title": "Masquerade Spotlight",
+      "category": "Highlights",
+      "match": "96% Match",
+      "duration": "7m",
+      "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=900&q=80",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "description": "Close-up of the masquerade costumes and the craft behind them."
+    }
+  ],
+  "events": [
+    {
+      "id": "ev-1",
+      "title": "Band Competition",
+      "start": "2026-05-26T16:00:00+01:00",
+      "location": "Marian Road Adjudication Point"
+    },
+    {
+      "id": "ev-2",
+      "title": "Calabar Night Party",
+      "start": "2026-05-27T20:00:00+01:00",
+      "location": "U.J. Esuene Stadium"
+    },
+    {
+      "id": "ev-3",
+      "title": "Grand Carnival Parade",
+      "start": "2026-05-28T09:00:00+01:00",
+      "location": "Mary Slessor Avenue to Millennium Park"
+    },
+    {
+      "id": "ev-4",
+      "title": "King & Queen Pageant Finals",
+      "start": "2026-05-29T19:00:00+01:00",
+      "location": "Calabar International Convention Centre"
+    }
+  ],
+  "packages": [
+    {
+      "name": "Portal Display Partner",
+      "badge": "Web & Mobile",
+      "description": "Billboard placements across the Home, Shows and Events pages.",
+      "features": [
+        "Homepage billboard sponsor",
+        "Click-through to your website or WhatsApp",
+        "Logo in the site footer"
+      ]
+    },
+    {
+      "name": "24/7 Stream Commercials",
+      "badge": "Most Popular",
+      "description": "Spots inside our 24/7 playout loop plus live lower-third graphics during parades.",
+      "features": [
+        "30-second HD spots in rotation",
+        "Lower-third brand overlays on live parades",
+        "Visible on mobile, desktop and smart TVs"
+      ]
+    },
+    {
+      "name": "Headline Title Sponsor",
+      "badge": "Category Exclusive",
+      "description": "Co-branding across the channel, prime-time coverage and interview backdrops.",
+      "features": [
+        "'Presented by' attribution on the channel",
+        "Sponsored band segments",
+        "Category exclusivity for the festival"
+      ]
+    }
+  ]
+}
